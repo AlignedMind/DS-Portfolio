@@ -1,0 +1,100 @@
+In this project, you’ll answer questions using a database of world population by country.
+
+There are two tables:
+
+countries , population_years
+
+
+/**
+Question: How many entries in the countries table are from Africa?
+
+ANSWER: 56
+**/
+
+SELECT COUNT(*)
+FROM countries
+WHERE continent = 'Africa';
+
+/**
+Question: What was the total population of the continent of Oceania in 2005?
+
+ANSWER: 32.66 Million
+**/
+
+
+SELECT continent, 
+ROUND(SUM(population),2) AS 'Total Population Oceania: 2005', year
+FROM countries
+JOIN population_years ON
+countries.id = population_years.country_id
+WHERE continent = 'Oceania' AND year = '2005';
+
+/**
+Question: What is the average population of countries in South America in 2003?
+ANSWER: 25.89 Million
+**/
+
+
+SELECT continent,
+ROUND(avg(population),2) AS 'Average Population In South America 2003', year
+FROM countries
+JOIN population_years ON
+countries.id = population_years.country_id
+WHERE continent = 'South America' AND year = '2003';
+
+/**
+Question: What country had the smallest population in 2007?
+ANSWER: Niue 0.00216
+**/
+
+
+SELECT countries.name,
+MIN(population) AS 'Smallest Population In 2007', year
+FROM countries
+JOIN population_years ON
+countries.id = population_years.country_id
+WHERE year = '2007';
+
+/**
+What is the average population of Poland during the time period covered by this dataset?
+ANSWER: 38.5606790909091
+**/
+
+SELECT name,
+AVG(population) AS 'Average Population Poland 2000-2010'
+FROM countries
+JOIN population_years ON
+countries.id = population_years.country_id
+WHERE name = 'Poland';
+
+
+/**
+How many countries have the word “The” in their name?
+ANSWER: 4
+**/
+
+SELECT COUNT(*)
+FROM countries
+WHERE name LIKE '%The%';
+
+/**
+What was the total population of each continent in 2010?
+
+ANSWER: 
+Africa	1015.47846
+Asia	4133.09148
+Europe	723.06044
+North America	539.79456
+Oceania	34.95696
+South America	396.58235
+**/
+
+SELECT countries.continent,
+SUM(population) AS 'Total population of each contient in 2010'
+FROM countries
+JOIN population_years ON
+countries.id = population_years.country_id
+WHERE year = '2010'
+GROUP BY 1;
+
+
