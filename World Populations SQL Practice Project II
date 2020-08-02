@@ -4,7 +4,6 @@ There are two tables:
 
 countries , population_years
 
-
 /**
 Question: How many entries in the countries table are from Africa?
 
@@ -21,7 +20,6 @@ Question: What was the total population of the continent of Oceania in 2005?
 ANSWER: 32.66 Million
 **/
 
-
 SELECT continent, 
 ROUND(SUM(population),2) AS 'Total Population Oceania: 2005', year
 FROM countries
@@ -34,7 +32,6 @@ Question: What is the average population of countries in South America in 2003?
 ANSWER: 25.89 Million
 **/
 
-
 SELECT continent,
 ROUND(avg(population),2) AS 'Average Population In South America 2003', year
 FROM countries
@@ -46,7 +43,6 @@ WHERE continent = 'South America' AND year = '2003';
 Question: What country had the smallest population in 2007?
 ANSWER: Niue 0.00216
 **/
-
 
 SELECT countries.name,
 MIN(population) AS 'Smallest Population In 2007', year
@@ -96,5 +92,3 @@ JOIN population_years ON
 countries.id = population_years.country_id
 WHERE year = '2010'
 GROUP BY 1;
-
-
