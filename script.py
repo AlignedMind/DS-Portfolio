@@ -1,3 +1,11 @@
+'''
+Project Goals
+
+In this project I created linear regression models that include single, two feature and multiple that predicts the outcomes
+for a tennis player based on their playing habits.
+By analyzing and modeling the Association of Tennis Professionals (ATP) data.
+
+'''
 import codecademylib3_seaborn
 import pandas as pd
 import matplotlib.pyplot as plt
