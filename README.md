@@ -4,7 +4,7 @@
 
 *Project Overview*:
 
-[](https://github.com/AlignedMind/Jeremy_DS-Portfolio/blob/master/Images/bar_plot.png?raw=true)
+![](https://github.com/AlignedMind/Jeremy_DS-Portfolio/blob/master/Images/bar_plot.png)
 
 - Developing a tool that predicts which classification a pokemon falls under.
 - Explored Pokedex data using Python to perform EDA
