@@ -2,7 +2,7 @@
 
 # [Project 1:Exploratory Data Analysis: Pokemon Pokedex](https://github.com/AlignedMind/Pokedex_EDA)
 
-*Project Overview*:
+*Project Overview Work in Progress*:
 
 - Developing a tool that predicts which classification a pokemon falls under.
 - Explored Pokedex data using Python to perform EDA
