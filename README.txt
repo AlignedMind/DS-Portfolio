@@ -1,8 +1,8 @@
-# Jeremy's Data Science Portfolio 
+#Jeremy's Data Science Portfolio 
 
-# Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex
+#Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex
 
-Project Overview:
+*Project Overview*:
 
 - Developing a tool that predicts which classification a pokemon falls under.
 - Explored Pokedex data using Python to perform EDA
