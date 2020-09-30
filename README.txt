@@ -1,4 +1,4 @@
-## Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex
+# Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex
 
 *Project Overview*:
 
