@@ -1,6 +1,6 @@
-#Jeremy's Data Science Portfolio 
+# Jeremy's Data Science Portfolio 
 
-#Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex
+## Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex
 
 *Project Overview*:
 
