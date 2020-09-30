@@ -12,7 +12,7 @@
   
   
 ![](https://github.com/AlignedMind/Jeremy_DS-Portfolio/blob/master/Images/bar_plot.png)
-![]()
+![](https://github.com/AlignedMind/Jeremy_DS-Portfolio/blob/master/Images/spaghetti_graph.png)
 ![]()
 
 
