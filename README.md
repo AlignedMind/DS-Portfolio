@@ -1,6 +1,6 @@
-# Jeremy's Data Science Portfolio
+# Jeremy Thomas Cruzado
 
-# [Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex](https://github.com/AlignedMind/Pokedex_EDA)
+# [Project 1:Exploratory Data Analysis: Pokemon Pokedex](https://github.com/AlignedMind/Pokedex_EDA)
 
 *Project Overview*:
 
