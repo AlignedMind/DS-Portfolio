@@ -1,7 +1,7 @@
 # Jeremy Thomas Cruzado
 
-# [Project 1:Exploratory Data Analysis: Pokemon Pokedex *Work in Progress*](https://github.com/AlignedMind/Pokedex_EDA)
-
+# [Project 1:Exploratory Data Analysis: Pokemon Pokedex](https://github.com/AlignedMind/Pokedex_EDA)
+## Work In Progress
 *Project Overview *:
 
 - Developing a tool that predicts which classification a pokemon falls under.
