@@ -1,6 +1,6 @@
 # Jeremy's Data Science Portfolio
 
-# [Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex](https://github.com/AlignedMind/Jeremy_DS-Portfolio)
+# [Project 1: Data Science Exploratory Data Analysis: Pokemon Pokedex](https://github.com/AlignedMind/Pokedex_EDA)
 
 *Project Overview*:
 
