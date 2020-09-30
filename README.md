@@ -11,7 +11,7 @@
   -- logistic regression / random forest
   
   
-![](https://github.com/AlignedMind/Jeremy_DS-Portfolio/blob/master/Images/spaghetti_graph.png)
+![](/Images/spaghetti_graph.png)
 
 
 
