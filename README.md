@@ -11,7 +11,7 @@
 ### Goals
 - Showcase findings using matplotlib and seaborn
 - Engineered features from the pokemon characteristics to train the algorithm to detect which pokemon.
-  -- logistic regression / random forest
+  -- Binary Classification
   
   
 ![](/Images/spaghetti_graph.png)
