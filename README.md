@@ -15,17 +15,11 @@
 
 - Showcase findings using Pandas, Numpy, Matplotlib, and Seaborn
 
-    1. Python3
-    2. Pandas
-    3. Matplotlib
-    4. Seaborn
-    5. ski-kit learn
-    6. Numpy
-    7. Beautiful Soup
+- Articulate Findings and create value.
 
 - Engineered features from the pokemon characteristics to develop a stronger analysis on the data.
 
-- Potentiall revisit and perform machine learning to create pokemon for testing.
+- Revisit project and perform machine learning to further research present and potentially relevant data.
 
 
 
