@@ -1,9 +1,11 @@
 # Jeremy Thomas Cruzado Portfolio 
 
-<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/CNN.jpg" >
 
 
 # [Image Classification using Convolutional Neural Networks](https://github.com/AlignedMind/offshore_fish_classifier)
+
+
+<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/CNN.jpg" >
 
 ## Project Overview:
 
@@ -19,7 +21,6 @@
 - Train model on 20 different fish species 
 - Identify species of fish with high accuracy.
 
-<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/pika_sci.png" >
 
 
 
@@ -28,6 +29,8 @@
 
 
 # [Exploratory Data Analysis: Pokemon Pokedex ](https://github.com/AlignedMind/Pokedex_EDA)
+
+<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/pika_sci.png" >
 
 
 ## Project Overview:
