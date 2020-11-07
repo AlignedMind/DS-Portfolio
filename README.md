@@ -1,6 +1,6 @@
 # Jeremy Thomas Cruzado Portfolio 
 
-<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/CNN.jpg" >
+
 
 # [Exploratory Data Analysis: Pokemon Pokedex ](https://github.com/AlignedMind/Pokedex_EDA)
 
@@ -22,6 +22,8 @@
 - Engineered features from the pokemon characteristics to develop a stronger analysis on the data.
 
 - Revisit project and perform machine learning to further research present and potentially relevant data.
+
+<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/CNN.jpg" >
 
 
 # [Image Classification using Convolutional Neural Networks](https://github.com/AlignedMind/offshore_fish_classifier)
