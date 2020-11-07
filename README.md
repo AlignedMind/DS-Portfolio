@@ -1,5 +1,24 @@
 # Jeremy Thomas Cruzado Portfolio 
 
+<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/CNN.jpg" >
+
+
+# [Image Classification using Convolutional Neural Networks](https://github.com/AlignedMind/offshore_fish_classifier)
+
+## Project Overview:
+
+- CNN Model trained to detect species of fish from the mid atlantic coast and chesapeke bay.
+
+- Deployed model as web app using Binder.
+
+- Identify species of fish with high accuracy.
+
+
+## Goals
+
+- Train model on 20 different fish species 
+- Identify species of fish with high accuracy.
+
 <img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/pika_sci.png" >
 
 # [Exploratory Data Analysis: Pokemon Pokedex ](https://github.com/AlignedMind/Pokedex_EDA)
@@ -24,24 +43,7 @@
 
 - Revisit project and perform machine learning to further research present and potentially relevant data.
 
-<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/CNN.jpg" >
 
-
-# [Image Classification using Convolutional Neural Networks](https://github.com/AlignedMind/offshore_fish_classifier)
-
-## Project Overview:
-
-- CNN Model trained to detect species of fish from the mid atlantic coast and chesapeke bay.
-
-- Deployed model as web app using Binder.
-
-- Identify species of fish with high accuracy.
-
-
-## Goals
-
-- Train model on 20 different fish species 
-- Identify species of fish with high accuracy.
 
 
 
