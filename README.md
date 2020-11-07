@@ -1,5 +1,7 @@
 # Jeremy Thomas Cruzado Portfolio 
 
+<img src="https://github.com/AlignedMind/DataScience-Portfolio/blob/master/Images/CNN.jpg" >
+
 # [Exploratory Data Analysis: Pokemon Pokedex ](https://github.com/AlignedMind/Pokedex_EDA)
 
 ## Project Overview:
